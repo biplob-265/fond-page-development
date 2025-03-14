@@ -1,0 +1,15 @@
+ul{
+float:right;
+list-style-type:none;
+margin-top:20px;
+}
+ul li{
+display:inline-block;
+}
+ul li a{
+text-decoration:none;
+color:darkblue;
+background-color:wheat;
+border:1px solid transparent;
+padding:3px 15px;
+}
